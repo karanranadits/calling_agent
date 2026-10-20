@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+chromadb
+openai
+mcp
+websockets
+python-dotenv
+httpx
